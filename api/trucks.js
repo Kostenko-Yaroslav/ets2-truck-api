@@ -1,6 +1,9 @@
 const express = require("express");
+const cors = require("cors");
 const app = express();
 const port = 3000;
+
+app.use(cors());
 
 const trucks = [
   {
@@ -454,17 +457,6 @@ const trucks = [
     price: "€294,035",
     img: "./public/images",
   },
-  /*{
-    id: 3,
-    name: "Volvo",
-    model: "",
-    hr: " hr",
-    shasi: "4x2",
-    hm: "",
-    tank: " l",
-    price: "€,",
-    img: './public/images',
-  }, */
 ];
 
 app.get("/api/trucks", (req, res) => {
