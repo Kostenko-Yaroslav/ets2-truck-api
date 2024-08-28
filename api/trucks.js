@@ -15,7 +15,7 @@ const trucks = [
     hm: "1800",
     tank: "800",
     price: "114880",
-    img: "./public/images",
+    img: "/public/images/Screenshot_1.png",
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ const trucks = [
     hm: "1800",
     tank: "1400",
     price: "128290",
-    img: "./public/images",
+    img: "/public/images/Screenshot_2.png",
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ const trucks = [
     hm: "1450",
     tank: "430",
     price: "133205",
-    img: "./public/images",
+    img: "/public/images/Screenshot_3.png",
   },
   {
     id: 4,
@@ -48,7 +48,7 @@ const trucks = [
     hm: "1800",
     tank: "600",
     price: "170535",
-    img: "./public/images",
+    img: "/public/images/Screenshot_4.png",
   },
   {
     id: 5,
@@ -59,7 +59,7 @@ const trucks = [
     hm: "2500",
     tank: "1400",
     price: "182350",
-    img: "./public/images",
+    img: "/public/images/Screenshot_5.png",
   },
   {
     id: 6,
@@ -70,7 +70,7 @@ const trucks = [
     hm: "2350",
     tank: "800",
     price: "184915",
-    img: "./public/images",
+    img: "/public/images/Screenshot_6.png",
   },
   {
     id: 7,
@@ -81,7 +81,7 @@ const trucks = [
     hm: "2200",
     tank: "1245",
     price: "199130",
-    img: "./public/images",
+    img: "/public/images/Screenshot_7.png",
   },
   {
     id: 8,
@@ -92,7 +92,7 @@ const trucks = [
     hm: "2500",
     tank: "1400",
     price: "128290",
-    img: "./public/images",
+    img: "/public/images/Screenshot_8.png",
   },
   {
     id: 9,
@@ -103,7 +103,7 @@ const trucks = [
     hm: "2500",
     tank: "800",
     price: "222085",
-    img: "./public/images",
+    img: "/public/images/Screenshot_9.png",
   },
   {
     id: 10,
@@ -114,7 +114,7 @@ const trucks = [
     hm: "2200",
     tank: "1185",
     price: "236845",
-    img: "./public/images",
+    img: "/public/images/Screenshot_10.png",
   },
   {
     id: 11,
@@ -125,7 +125,7 @@ const trucks = [
     hm: "2550",
     tank: "1465",
     price: "257445",
-    img: "./public/images",
+    img: "/public/images/Screenshot_11.png",
   },
   {
     id: 12,
@@ -136,7 +136,7 @@ const trucks = [
     hm: "1600",
     tank: "1160",
     price: "107355",
-    img: "./public/images",
+    img: "/public/images/Screenshot_12.png",
   },
   {
     id: 13,
@@ -147,7 +147,7 @@ const trucks = [
     hm: "1600",
     tank: "850",
     price: "117005",
-    img: "./public/images",
+    img: "/public/images/Screenshot_13.png",
   },
   {
     id: 14,
@@ -158,7 +158,7 @@ const trucks = [
     hm: "1800",
     tank: "450",
     price: "149295",
-    img: "./public/images",
+    img: "/public/images/Screenshot_14.png",
   },
   {
     id: 15,
@@ -169,7 +169,7 @@ const trucks = [
     hm: "2300",
     tank: "1160",
     price: "158715",
-    img: "./public/images",
+    img: "/public/images/Screenshot_15.png",
   },
   {
     id: 16,
@@ -180,7 +180,7 @@ const trucks = [
     hm: "2700",
     tank: "1160",
     price: "172320",
-    img: "./public/images",
+    img: "/public/images/Screenshot_16.png",
   },
   {
     id: 17,
@@ -191,7 +191,7 @@ const trucks = [
     hm: "2200",
     tank: "400",
     price: "189360",
-    img: "./public/images",
+    img: "/public/images/Screenshot_17.png",
   },
   {
     id: 18,
@@ -202,7 +202,7 @@ const trucks = [
     hm: "2500",
     tank: "400",
     price: "200380",
-    img: "./public/images",
+    img: "/public/images/Screenshot_18.png",
   },
   {
     id: 19,
@@ -213,7 +213,7 @@ const trucks = [
     hm: "3000",
     tank: "850",
     price: "213065",
-    img: "./public/images",
+    img: "/public/images/Screenshot_19.png",
   },
   {
     id: 20,
@@ -224,7 +224,7 @@ const trucks = [
     hm: "3000",
     tank: "960",
     price: "260705",
-    img: "./public/images",
+    img: "/public/images/Screenshot_20.png",
   },
   {
     id: 21,
@@ -235,7 +235,7 @@ const trucks = [
     hm: "2700",
     tank: "960",
     price: "264700",
-    img: "./public/images",
+    img: "/public/images/Screenshot_21.png",
   },
   {
     id: 22,
@@ -246,7 +246,7 @@ const trucks = [
     hm: "1300",
     tank: "1200",
     price: "158545",
-    img: "./public/images",
+    img: "/public/images/Screenshot_22.png",
   },
   {
     id: 23,
@@ -257,7 +257,7 @@ const trucks = [
     hm: "2500",
     tank: "1200",
     price: "179595",
-    img: "./public/images",
+    img: "/public/images/Screenshot_23.png",
   },
   {
     id: 24,
@@ -268,7 +268,7 @@ const trucks = [
     hm: "2100",
     tank: "1140",
     price: "119375",
-    img: "./public/images",
+    img: "/public/images/Screenshot_24.png",
   },
   {
     id: 25,
@@ -279,7 +279,7 @@ const trucks = [
     hm: "2500",
     tank: "1140",
     price: "202475",
-    img: "./public/images",
+    img: "/public/images/Screenshot_25.png",
   },
   {
     id: 26,
@@ -290,7 +290,7 @@ const trucks = [
     hm: "2300",
     tank: "890",
     price: "207640",
-    img: "./public/images",
+    img: "/public/images/Screenshot_26.png",
   },
   {
     id: 27,
@@ -301,7 +301,7 @@ const trucks = [
     hm: "2600",
     tank: "960",
     price: "275730",
-    img: "./public/images",
+    img: "/public/images/Screenshot_27.png",
   },
   {
     id: 28,
@@ -312,7 +312,7 @@ const trucks = [
     hm: "1800",
     tank: "1045",
     price: "117343",
-    img: "./public/images",
+    img: "/public/images/Screenshot_28.png",
   },
   {
     id: 29,
@@ -323,7 +323,7 @@ const trucks = [
     hm: "2400",
     tank: "1045",
     price: "204805",
-    img: "./public/images",
+    img: "/public/images/Screenshot_29.png",
   },
   {
     id: 30,
@@ -334,7 +334,7 @@ const trucks = [
     hm: "2550",
     tank: "765",
     price: "209593",
-    img: "./public/images",
+    img: "/public/images/Screenshot_30.png",
   },
   {
     id: 31,
@@ -345,7 +345,7 @@ const trucks = [
     hm: "1900",
     tank: "1290",
     price: "118000",
-    img: "./public/images",
+    img: "/public/images/Screenshot_31.png",
   },
   {
     id: 32,
@@ -356,7 +356,7 @@ const trucks = [
     hm: "1900",
     tank: "1290",
     price: "119500",
-    img: "./public/images",
+    img: "/public/images/Screenshot_32.png",
   },
   {
     id: 33,
@@ -367,7 +367,7 @@ const trucks = [
     hm: "2550",
     tank: "600",
     price: "246465",
-    img: "./public/images",
+    img: "/public/images/Screenshot_33.png",
   },
   {
     id: 34,
@@ -378,7 +378,7 @@ const trucks = [
     hm: "2700",
     tank: "600",
     price: "253740",
-    img: "./public/images",
+    img: "/public/images/Screenshot_34.png",
   },
   {
     id: 35,
@@ -389,7 +389,7 @@ const trucks = [
     hm: "3300",
     tank: "1000",
     price: "296000",
-    img: "./public/images",
+    img: "/public/images/Screenshot_35.png",
   },
   {
     id: 36,
@@ -400,7 +400,7 @@ const trucks = [
     hm: "3500",
     tank: "1000",
     price: "307440",
-    img: "./public/images",
+    img: "/public/images/Screenshot_36.png",
   },
   {
     id: 37,
@@ -411,7 +411,7 @@ const trucks = [
     hm: "2100",
     tank: "1400",
     price: "115190",
-    img: "./public/images",
+    img: "/public/images/Screenshot_37.png",
   },
   {
     id: 38,
@@ -422,21 +422,10 @@ const trucks = [
     hm: "2500",
     tank: "800",
     price: "174330",
-    img: "./public/images",
+    img: "/public/images/Screenshot_38.png",
   },
   {
     id: 39,
-    name: "Volvo",
-    model: "FH",
-    hr: "500",
-    shasi: "4x2",
-    hm: "2500",
-    tank: "800",
-    price: "174300",
-    img: "./public/images",
-  },
-  {
-    id: 40,
     name: "Volvo",
     model: "FH",
     hr: "750",
@@ -444,10 +433,10 @@ const trucks = [
     hm: "3550",
     tank: "1400",
     price: "225710",
-    img: "./public/images",
+    img: "/public/images/Screenshot_39.png",
   },
   {
-    id: 41,
+    id: 40,
     name: "Volvo",
     model: "FH",
     hr: "600",
@@ -455,7 +444,7 @@ const trucks = [
     hm: "2800",
     tank: "800",
     price: "294035",
-    img: "./public/images",
+    img: "/public/images/Screenshot_40.png",
   },
 ];
 
